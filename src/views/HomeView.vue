@@ -13,14 +13,14 @@
       </v-col>
     </v-row>
     <v-row justify="center" align="center">
-      <v-col cols="3">
+      <v-col sm="3">
         <a
           href="https://apps.apple.com/us/app/famlist-lista-de-la-compra/id1660114766?uo=2"
         >
           <v-img :src="require('@/assets/appstore.png')" />
         </a>
       </v-col>
-      <v-col cols="3">
+      <v-col sm="3">
         <a
           href="https://play.google.com/store/apps/details?id=com.logicgear.famlist"
         >

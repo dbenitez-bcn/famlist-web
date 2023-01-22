@@ -12,7 +12,12 @@
         <div class="display-2 text-center grey--text">Descárgatela ya!</div>
       </v-col>
     </v-row>
+    <v-row>
+    </v-row>
     <v-row justify="center" align="center">
+      <v-col sm="1">
+          <v-img class="rounded-lg" :src="require('@/assets/app_icon.png')" max-width="100" />
+        </v-col>
       <v-col sm="3">
         <a
           href="https://apps.apple.com/us/app/famlist-lista-de-la-compra/id1660114766?uo=2"
